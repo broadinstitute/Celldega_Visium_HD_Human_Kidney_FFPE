@@ -1,0 +1,11 @@
+{
+    "technology": "Visium-HD",
+    "segmentation_approach": [
+        "default"
+    ],
+    "max_pyramid_zoom": 13,
+    "tile_size": 100,
+    "image_info": {},
+    "image_format": ".webp",
+    "use_int_index": false
+}
